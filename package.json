@@ -1,0 +1,25 @@
+{
+  "name": "anykamp",
+  "version": "1.0.0",
+  "description": "AnyKamp website",
+  "main": "index.js",
+  "scripts": {
+    "build": "postcss css/tailwind.css -o public/build/tailwind.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GroovyMouse/anykamp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GroovyMouse/anykamp/issues"
+  },
+  "homepage": "https://github.com/GroovyMouse/anykamp#readme",
+  "dependencies": {
+    "autoprefixer": "^9.7.3",
+    "postcss-cli": "^7.1.0",
+    "tailwindcss": "^1.1.4"
+  }
+}
