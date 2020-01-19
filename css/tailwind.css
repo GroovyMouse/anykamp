@@ -7,14 +7,14 @@
 .btn:focus {
     @apply outline-none shadow-outline;
 }
-.btn-indigo {
-    @apply bg-indigo-500 text-white;
+.btn-green {
+    @apply bg-green-500 text-white;
 }
-.btn-indigo:hover{
-    @apply bg-indigo-400;
+.btn-green:hover{
+    @apply bg-green-400;
 }
-.btn-indigo:active {
-    @apply bg-indigo-600;
+.btn-green:active {
+    @apply bg-green-600;
 }
 .btn-gray {
     @apply bg-gray-400 text-gray-800;

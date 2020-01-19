@@ -645,17 +645,17 @@ video {
   box-shadow: 0 0 0 3px rgba(66, 153, 225, 0.5);
 }
 
-.btn-indigo {
-  background-color: #667eea;
+.btn-green {
+  background-color: #48bb78;
   color: #fff;
 }
 
-.btn-indigo:hover{
-  background-color: #7f9cf5;
+.btn-green:hover{
+  background-color: #68d391;
 }
 
-.btn-indigo:active {
-  background-color: #5a67d8;
+.btn-green:active {
+  background-color: #38a169;
 }
 
 .btn-gray {
